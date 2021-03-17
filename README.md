@@ -12,4 +12,5 @@ _LongestIncreasingSubsequence.java_ - https://leetcode.com/problems/longest-incr
 _LeftZeros.java_ - https://leetcode.com/problems/move-zeroes/ \
 _LowestCommonAncestorOfABinaryTree.java_ - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ \
 _InvertBinaryTree.java_ - https://leetcode.com/problems/invert-binary-tree/ \
-_GroupAnagrams.java_ - https://leetcode.com/problems/group-anagrams/
+_GroupAnagrams.java_ - https://leetcode.com/problems/group-anagrams/ \
+_CompressTheArrayIntoRanges.java_ - https://www.geeksforgeeks.org/compress-the-array-into-ranges/
