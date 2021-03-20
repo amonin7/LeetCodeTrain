@@ -15,4 +15,7 @@ _InvertBinaryTree.java_ - https://leetcode.com/problems/invert-binary-tree/ \
 _GroupAnagrams.java_ - https://leetcode.com/problems/group-anagrams/ \
 _CompressTheArrayIntoRanges.java_ - https://www.geeksforgeeks.org/compress-the-array-into-ranges/ \
 _NumberOfIslands.java_ - https://leetcode.com/problems/number-of-islands/ \
-_MergekSortedLists.java_ - https://leetcode.com/problems/merge-k-sorted-lists/
+_MergekSortedLists.java_ - https://leetcode.com/problems/merge-k-sorted-lists/ \
+_MaximumSubarray.java_ - https://leetcode.com/problems/maximum-subarray/ \
+_TopKFrequentElements.java_ - https://leetcode.com/problems/top-k-frequent-elements/ \
+_ValidateBinarySearchTree.java_ - https://leetcode.com/problems/validate-binary-search-tree/
