@@ -21,4 +21,5 @@ _TopKFrequentElements.java_ - https://leetcode.com/problems/top-k-frequent-eleme
 _ValidateBinarySearchTree.java_ - https://leetcode.com/problems/validate-binary-search-tree/ \
 _SubtreeOfAnotherTree.java_ - https://leetcode.com/problems/subtree-of-another-tree/ \
 _LongestConsecutiveSequence.java_ - https://leetcode.com/problems/longest-consecutive-sequence/ \
-_TwoSum.java_ - https://leetcode.com/problems/two-sum/
+_TwoSum.java_ - https://leetcode.com/problems/two-sum/ \
+_BestTimeToBuyAndSellStock.java_ - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
