@@ -19,4 +19,6 @@ _MergekSortedLists.java_ - https://leetcode.com/problems/merge-k-sorted-lists/ \
 _MaximumSubarray.java_ - https://leetcode.com/problems/maximum-subarray/ \
 _TopKFrequentElements.java_ - https://leetcode.com/problems/top-k-frequent-elements/ \
 _ValidateBinarySearchTree.java_ - https://leetcode.com/problems/validate-binary-search-tree/ \
-_SubtreeOfAnotherTree.java_ - https://leetcode.com/problems/subtree-of-another-tree/
+_SubtreeOfAnotherTree.java_ - https://leetcode.com/problems/subtree-of-another-tree/ \
+_LongestConsecutiveSequence.java_ - https://leetcode.com/problems/longest-consecutive-sequence/ \
+_TwoSum.java_ - https://leetcode.com/problems/two-sum/
