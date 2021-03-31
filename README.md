@@ -23,4 +23,5 @@ _SubtreeOfAnotherTree.java_ - https://leetcode.com/problems/subtree-of-another-t
 _LongestConsecutiveSequence.java_ - https://leetcode.com/problems/longest-consecutive-sequence/ \
 _TwoSum.java_ - https://leetcode.com/problems/two-sum/ \
 _BestTimeToBuyAndSellStock.java_ - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ \
-_ContainsDuplicate.java_ - https://leetcode.com/problems/contains-duplicate/
+_ContainsDuplicate.java_ - https://leetcode.com/problems/contains-duplicate/ \
+_MaximumProductSubarray.java_ - https://leetcode.com/problems/maximum-product-subarray/
