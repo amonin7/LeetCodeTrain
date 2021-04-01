@@ -24,4 +24,5 @@ _LongestConsecutiveSequence.java_ - https://leetcode.com/problems/longest-consec
 _TwoSum.java_ - https://leetcode.com/problems/two-sum/ \
 _BestTimeToBuyAndSellStock.java_ - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ \
 _ContainsDuplicate.java_ - https://leetcode.com/problems/contains-duplicate/ \
-_MaximumProductSubarray.java_ - https://leetcode.com/problems/maximum-product-subarray/
+_MaximumProductSubarray.java_ - https://leetcode.com/problems/maximum-product-subarray/ \
+_FindMinimumInRotatedSortedArray.java_ - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
