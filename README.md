@@ -25,4 +25,5 @@ _TwoSum.java_ - https://leetcode.com/problems/two-sum/ \
 _BestTimeToBuyAndSellStock.java_ - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ \
 _ContainsDuplicate.java_ - https://leetcode.com/problems/contains-duplicate/ \
 _MaximumProductSubarray.java_ - https://leetcode.com/problems/maximum-product-subarray/ \
-_FindMinimumInRotatedSortedArray.java_ - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+_FindMinimumInRotatedSortedArray.java_ - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ \
+_SearchInRotatedSortedArray.java_ - https://leetcode.com/problems/search-in-rotated-sorted-array/
