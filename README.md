@@ -27,3 +27,4 @@ _ContainsDuplicate.java_ - https://leetcode.com/problems/contains-duplicate/ \
 _MaximumProductSubarray.java_ - https://leetcode.com/problems/maximum-product-subarray/ \
 _FindMinimumInRotatedSortedArray.java_ - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ \
 _SearchInRotatedSortedArray.java_ - https://leetcode.com/problems/search-in-rotated-sorted-array/
+_Merge2SortedLists.java_ - https://leetcode.com/problems/merge-two-sorted-lists/
