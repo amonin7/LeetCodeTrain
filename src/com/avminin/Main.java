@@ -2,9 +2,11 @@ package com.avminin;
 
 import com.avminin.SubtreeOfAnotherTree.*;
 
+import java.util.Arrays;
+
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(new NumberOf1Bits().hammingWeight(-3));
+        System.out.println(Arrays.toString(new CountingBits().countBits(7)));
     }
 }
