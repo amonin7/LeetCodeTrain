@@ -30,3 +30,4 @@ _SearchInRotatedSortedArray.java_ - https://leetcode.com/problems/search-in-rota
 _Merge2SortedLists.java_ - https://leetcode.com/problems/merge-two-sorted-lists/ \
 _MaximumDepthOfBinaryTree.java_ - https://leetcode.com/problems/maximum-depth-of-binary-tree/ \
 _ClimbingStairs.java_ - https://leetcode.com/problems/climbing-stairs/ \
+_ThreeSum.java_ - https://leetcode.com/problems/3sum/ \
