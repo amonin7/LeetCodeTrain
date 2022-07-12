@@ -34,3 +34,4 @@ _ThreeSum.java_ - https://leetcode.com/problems/3sum/ \
 _NumberOf1Bits.java_ - https://leetcode.com/problems/number-of-1-bits/ \
 _CountingBits.java_ - https://leetcode.com/problems/counting-bits/ \
 _ReverseBits.java_ - https://leetcode.com/problems/reverse-bits/ \
+_LongestConsecutiveSequence.java_ - https://leetcode.com/problems/longest-consecutive-sequence/ \
