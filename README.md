@@ -35,3 +35,4 @@ _NumberOf1Bits.java_ - https://leetcode.com/problems/number-of-1-bits/ \
 _CountingBits.java_ - https://leetcode.com/problems/counting-bits/ \
 _ReverseBits.java_ - https://leetcode.com/problems/reverse-bits/ \
 _LongestConsecutiveSequence.java_ - https://leetcode.com/problems/longest-consecutive-sequence/ \
+_MaximumSubarray.java_ - https://leetcode.com/problems/maximum-subarray/ \
