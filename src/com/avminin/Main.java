@@ -7,8 +7,6 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(new LongestConsecutiveSequence().longestConsecutive(new int[] {100,4,200,1,3,2,0}));
-        int a = -4;
-        System.out.println(a >> 31);
+        System.out.println(new MatchsticksToSquare().makesquare(new int[] {1,1,2,2,2}));
     }
 }

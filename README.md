@@ -37,3 +37,4 @@ _ReverseBits.java_ - https://leetcode.com/problems/reverse-bits/ \
 _LongestConsecutiveSequence.java_ - https://leetcode.com/problems/longest-consecutive-sequence/ \
 _MaximumSubarray.java_ - https://leetcode.com/problems/maximum-subarray/ \
 _BinaryTreeLevelOrderTraversal.java_ - https://leetcode.com/problems/binary-tree-level-order-traversal/ \
+_MatchsticksToSquare.java_ - https://leetcode.com/problems/matchsticks-to-square/ \
