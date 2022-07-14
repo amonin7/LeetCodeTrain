@@ -40,3 +40,4 @@ _BinaryTreeLevelOrderTraversal.java_ - https://leetcode.com/problems/binary-tree
 _MatchsticksToSquare.java_ - https://leetcode.com/problems/matchsticks-to-square/ \
 _CloneGraph.java_ - https://leetcode.com/problems/clone-graph/ \
 _PacificAtlanticWaterFlow.java_ - https://leetcode.com/problems/pacific-atlantic-water-flow/ \
+_ConstructBinaryTreeFromPreorderAndInorderTraversal.java_ - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ \
