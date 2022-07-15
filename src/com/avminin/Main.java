@@ -1,5 +1,7 @@
 package com.avminin;
 
+import com.avminin.dynamic.programming.DecodeWays;
+
 public class Main {
 
     public static void main(String[] args) {
