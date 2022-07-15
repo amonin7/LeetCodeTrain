@@ -51,3 +51,4 @@ _NonOverlappingIntervals.java_ - https://leetcode.com/problems/non-overlapping-i
 _LinkedListCycle.java_ - https://leetcode.com/problems/linked-list-cycle/ \
 _LinkedListCycle.java_ - https://leetcode.com/problems/linked-list-cycle-ii/ \
 _RemoveNthNodeFromEndOfList.java_ - https://leetcode.com/problems/remove-nth-node-from-end-of-list/ \
+_LongestSubstringWithoutRepeatingCharacters.java_ - https://leetcode.com/problems/longest-substring-without-repeating-characters/ \
