@@ -44,3 +44,4 @@ _ConstructBinaryTreeFromPreorderAndInorderTraversal.java_ - https://leetcode.com
 _CombinationSumIV.java_ - https://leetcode.com/problems/combination-sum-iv/ \
 _HouseRobber.java_ - https://leetcode.com/problems/house-robber/ \
 _HouseRobberII.java_ - https://leetcode.com/problems/house-robber-ii/ \
+_MaxAreaOfIsland.java_ - https://leetcode.com/problems/max-area-of-island/ \
