@@ -59,3 +59,4 @@ _LongestPalindromicSubstring.java_ - https://leetcode.com/problems/longest-palin
 _PalindromicSubstrings.java_ - https://leetcode.com/problems/palindromic-substrings/ \
 _SameTree.java_ - https://leetcode.com/problems/same-tree/ \
 _KthSmallestElementInBST.java_ - https://leetcode.com/problems/kth-smallest-element-in-a-bst/ \
+_Trie.java_ - https://leetcode.com/problems/implement-trie-prefix-tree/ \
