@@ -55,3 +55,4 @@ _LongestSubstringWithoutRepeatingCharacters.java_ - https://leetcode.com/problem
 _ValidAnagram.java_ - https://leetcode.com/problems/valid-anagram/ \
 _ValidParentheses.java_ - https://leetcode.com/problems/valid-parentheses/ \
 _ValidPalindrome.java_ - https://leetcode.com/problems/valid-palindrome/ \
+_LongestPalindromicSubstring.java_ - https://leetcode.com/problems/longest-palindromic-substring/ \
