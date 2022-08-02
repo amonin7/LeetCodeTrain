@@ -61,3 +61,4 @@ _SameTree.java_ - https://leetcode.com/problems/same-tree/ \
 _KthSmallestElementInBST.java_ - https://leetcode.com/problems/kth-smallest-element-in-a-bst/ \
 _Trie.java_ - https://leetcode.com/problems/implement-trie-prefix-tree/ \
 _BinarySearch.java_ - https://leetcode.com/problems/binary-search/ \
+_FirstBadVersion.java_ - https://leetcode.com/problems/first-bad-version/ \
