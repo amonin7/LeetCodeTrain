@@ -60,3 +60,4 @@ _PalindromicSubstrings.java_ - https://leetcode.com/problems/palindromic-substri
 _SameTree.java_ - https://leetcode.com/problems/same-tree/ \
 _KthSmallestElementInBST.java_ - https://leetcode.com/problems/kth-smallest-element-in-a-bst/ \
 _Trie.java_ - https://leetcode.com/problems/implement-trie-prefix-tree/ \
+_BinarySearch.java_ - https://leetcode.com/problems/binary-search/ \
