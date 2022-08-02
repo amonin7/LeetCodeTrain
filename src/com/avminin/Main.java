@@ -1,8 +1,6 @@
 package com.avminin;
 
-import com.avminin.array.FirstBadVersion;
-import com.avminin.string.LongestPalindromicSubstring;
-import com.avminin.string.PalindromicSubstrings;
+import com.avminin.bin.search.FirstBadVersion;
 import com.avminin.tree.Trie;
 
 public class Main {

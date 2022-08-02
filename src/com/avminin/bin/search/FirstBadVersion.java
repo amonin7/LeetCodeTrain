@@ -1,4 +1,4 @@
-package com.avminin.array;
+package com.avminin.bin.search;
 
 public class FirstBadVersion {
     private boolean isBadVersion(int version) {
