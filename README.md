@@ -62,3 +62,4 @@ _KthSmallestElementInBST.java_ - https://leetcode.com/problems/kth-smallest-elem
 _Trie.java_ - https://leetcode.com/problems/implement-trie-prefix-tree/ \
 _BinarySearch.java_ - https://leetcode.com/problems/binary-search/ \
 _SearchInsertPosition.java_ - https://leetcode.com/problems/search-insert-position/ \
+_SquaresOfaSortedArray.java_ - https://leetcode.com/problems/squares-of-a-sorted-array/ \
