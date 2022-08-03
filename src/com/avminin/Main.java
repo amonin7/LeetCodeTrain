@@ -1,5 +1,6 @@
 package com.avminin;
 
+import com.avminin.array.RotateArray;
 import com.avminin.array.SquaresOfaSortedArray;
 import com.avminin.bin.search.FirstBadVersion;
 import com.avminin.bin.search.SearchInsertPosition;
