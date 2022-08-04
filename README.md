@@ -63,3 +63,4 @@ _Trie.java_ - https://leetcode.com/problems/implement-trie-prefix-tree/ \
 _BinarySearch.java_ - https://leetcode.com/problems/binary-search/ \
 _SearchInsertPosition.java_ - https://leetcode.com/problems/search-insert-position/ \
 _RotateArray.java_ - https://leetcode.com/problems/rotate-array/ \
+_MoveZeroes.java_ - https://leetcode.com/problems/move-zeroes/ \
