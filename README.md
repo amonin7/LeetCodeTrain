@@ -69,3 +69,4 @@ _MirrorReflection.java_ - https://leetcode.com/problems/mirror-reflection/ \
 _ReverseString.java_ - https://leetcode.com/problems/reverse-string/ \
 _ReverseWordsInAStringIII.java_ - https://leetcode.com/problems/reverse-words-in-a-string-iii/ \
 _ZigzagConversion.java_ - https://leetcode.com/problems/zigzag-conversion/ \
+_ReverseInteger.java_ - https://leetcode.com/problems/reverse-integer/ \
