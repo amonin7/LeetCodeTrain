@@ -9,21 +9,19 @@ public class RemoveNthNodeFromEndOfList {
     }
 
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        if (head == null) return null;
-        int curNodeCnt = 0;
-        int listLength = 0;
+        ListNode toBeDeleted = head;
         ListNode cur = head;
+        for (int i = 0; i < n; ++i) cur = cur.next;
+        if (cur == null) {
+            head = head.next;
+            return head;
+        }
+        cur = cur.next;
         while (cur != null) {
-            ++listLength;
             cur = cur.next;
+            toBeDeleted = toBeDeleted.next;
         }
-        if (n == listLength) return head.next;
-        ListNode parent = head;
-        while (curNodeCnt != listLength - n) {
-            ++curNodeCnt;
-            parent = parent.next;
-        }
-        parent.next = parent.next.next;
+        toBeDeleted.next = toBeDeleted.next.next;
         return head;
     }
 
