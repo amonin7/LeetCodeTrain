@@ -75,3 +75,4 @@ _PalindromeNumber.java_ - https://leetcode.com/problems/palindrome-number/ \
 _MiddleOfTheLinkedList.java_ - https://leetcode.com/problems/middle-of-the-linked-list/ \
 _PermutationInString.java_ - https://leetcode.com/problems/permutation-in-string/ \
 _FloodFill.java_ - https://leetcode.com/problems/flood-fill/ \
+_MergeTwoBinaryTrees.java_ - https://leetcode.com/problems/merge-two-binary-trees/ \
