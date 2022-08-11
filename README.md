@@ -77,3 +77,4 @@ _PermutationInString.java_ - https://leetcode.com/problems/permutation-in-string
 _FloodFill.java_ - https://leetcode.com/problems/flood-fill/ \
 _MergeTwoBinaryTrees.java_ - https://leetcode.com/problems/merge-two-binary-trees/ \
 _PopulatingNextRightPointersInEachNode.java_ - https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ \
+_PopulatingNextRightPointersInEachNodeII.java_ - https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/ \
